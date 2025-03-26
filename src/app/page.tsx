@@ -1,5 +1,3 @@
-import { Button } from "@/components/ui/button";
-
 export default function Home() {
-  return <Button>Click me</Button>;
+  return <h1>会員向けページ</h1>;
 }
